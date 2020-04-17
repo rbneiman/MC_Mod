@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "modnew:items/bullet_box_empty"
+    },
+    "overrides": [		
+        { "predicate": { "number": 1.0 }, "model": "modnew:item/bullet_box_1" },
+		{ "predicate": { "number": 2.0 }, "model": "modnew:item/bullet_box_2" },
+		{ "predicate": { "number": 3.0 }, "model": "modnew:item/bullet_box_3" },
+		{ "predicate": { "number": 4.0 }, "model": "modnew:item/bullet_box_4" },
+		{ "predicate": { "number": 5.0 }, "model": "modnew:item/bullet_box_5" },
+		{ "predicate": { "number": 6.0 }, "model": "modnew:item/bullet_box_6" },
+		{ "predicate": { "number": 7.0 }, "model": "modnew:item/bullet_box_7" },
+		{ "predicate": { "number": 8.0 }, "model": "modnew:item/bullet_box_8" },
+		{ "predicate": { "number": 9.0 }, "model": "modnew:item/bullet_box_9" },
+		{ "predicate": { "number": 10.0 }, "model": "modnew:item/bullet_box_10" },
+		{ "predicate": { "number": 11.0 }, "model": "modnew:item/bullet_box_11" },
+		{ "predicate": { "number": 12.0 }, "model": "modnew:item/bullet_box_12" },
+		{ "predicate": { "number": 13.0 }, "model": "modnew:item/bullet_box_13" },
+		{ "predicate": { "number": 14.0 }, "model": "modnew:item/bullet_box_14" },
+		{ "predicate": { "number": 15.0 }, "model": "modnew:item/bullet_box_15" },
+        { "predicate": { "number": 16.0 }, "model": "modnew:item/bullet_box_full" }
+    ]
+}

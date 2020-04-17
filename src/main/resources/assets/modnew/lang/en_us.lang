@@ -1,0 +1,9 @@
+# Items
+item.modnew.fishgun.name=Fish Gun
+item.modnew.bullet.name=Bullet
+item.modnew.bulletbox.name=Bullet Box
+item.modnew.minigun.name=Minigun
+
+# Blocks
+tile.modnew.basicblock.name=Basic Block
+tile.modnew.machineblock.name=Machine Block
